@@ -15,7 +15,7 @@ My Name is Azeril. You may find me in sites like douban.com / Goodreads.com / Fa
 
 喜欢折腾的伪技术宅。一点点 geek，一丢丢的执著，就像吃烧烤时多少会撒一点孜然，恰到好处就够。日常之中，多的是折腾劲，也希望能添几分专注、几许勇敢。这就是我。
 
-——Azeril
+——刘刚
 
 
 > Live long and prosper
