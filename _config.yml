@@ -61,9 +61,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : Azeril
+    short_name : liugangios
   disqus :
-      short_name : Azeril
+      short_name : liugangios
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-66863061-1
