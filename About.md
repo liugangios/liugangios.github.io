@@ -9,10 +9,10 @@ header-img: "img/plane.jpg"
     <p><img src="img/Zero.png" align="center"></p>
 </center>
 
-刘刚 安徽阜阳人
-2014年 毕业于北京科技大学高等工程师学院，保送本校读硕，2017年1月硕士毕业
-目前在用友金融工作，负责iOS移动开发
-Email：ustbliugang@163.com
+>刘刚 安徽阜阳人
+>2014年 毕业于北京科技大学高等工程师学院，保送本校读硕，2017年1月硕士毕业
+>目前在用友金融工作，负责iOS移动开发
+- **Email** ：ustbliugang@163.com
 
 
 > Live long and prosper
