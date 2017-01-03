@@ -10,19 +10,19 @@ url: "http://azeril.me"
 # About/contact
 owner: 
   name: "刘刚"
-  email: azeril@live.cn
+  email: ustbliugang@163.com
   bio: "明朝即長路 惜取此時心"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.ico
 
-douban_username: Azeril
+# douban_username: Azeril
 twitter_username: Gavin5888
 github_username: liugangios
-facebook_username: Azeril_Lapland  
+# facebook_username: Azeril_Lapland  
 weibo_username: liugangios
-zhihu_username: Azeril  
+# zhihu_username: Azeril
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -53,7 +53,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Azeril"
+      author: "Gavin"
       header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
