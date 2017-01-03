@@ -15,10 +15,8 @@ header-img: "img/plane.jpg"
 
 >目前在用友金融工作，负责iOS移动开发
 
-- **Email** ：ustbliugang@163.com
+> Email ：ustbliugang@163.com
 
-
-> Live long and prosper
 
 <center>
     <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
